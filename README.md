@@ -6,9 +6,9 @@
 ---
 
 ## Overview
-This repository contains a comprehensive multiomics analysis pipeline tailored for mixed-culture fermentation studies. The pipeline encompasses the analysis of 16S rRNA gene, metagenomics, and metatranscriptomics data. It outputs community-level alpha diversity (Shannon diversity and evenness), beta-diversity (Bray-Curtis matrix), and PCoA plots of samples. Additionally, it includes RDA analysis for assessing the environmental impact on community structure.  
+This repository contains a comprehensive multiomics analysis pipeline tailored for mixed-culture fermentation studies. The pipeline encompasses the analysis of 16S rRNA gene, metagenomics, and metatranscriptomics data. It outputs community-level alpha diversity (Shannon diversity and evenness), beta-diversity (Bray-Curtis matrix), and PCoA plots of samples. Additionally, it includes RDA analysis for assessing the environmental impact on community structure. 
 
-
+---
 ![Multiomics analysis pipeline](https://github.com/mj2770/Multiomics-analysis-for-mixed-culture-fermentation/blob/main/Analysis_pipeline_v1-02.png)
 
 
@@ -26,11 +26,9 @@ This repository contains a comprehensive multiomics analysis pipeline tailored f
   - **Cross-feeding analysis**: Flux-balance based metabolic model to propose and validate inter-genus interactions.
 
 ## Publications
-This pipeline has been applied in the following studies:
-1. [Paper Title 1](link_to_paper1)
-2. [Paper Title 2](link_to_paper2)
+This pipeline has been applied in the following two studies:
+1. [Paper Title 1](https://www.sciencedirect.com/science/article/pii/S0960852423014979?via%3Dihub)
+2. [Paper Title 2](10.1101/2023.05.23.541846)
 
 
 
-This pipeline is designed for comprehensive analysis of 16S, metagenomics, and metatranscriptomics data. 
-It provides insights into community structure, diversity, functional potential, and activity within mixed-culture fermentations.
