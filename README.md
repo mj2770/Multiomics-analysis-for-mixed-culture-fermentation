@@ -1,4 +1,9 @@
 # Multiomics Analysis Pipeline for Mixed-Culture Fermentation
+---
+* Author: Minxi Jiang
+* Version: 2.0
+* Date: lastly updated on 6/9/2024
+---
 
 ## Overview
 This repository contains a comprehensive multiomics analysis pipeline tailored for mixed-culture fermentation studies. The pipeline encompasses the analysis of 16S rRNA gene, metagenomics, and metatranscriptomics data. It outputs community-level alpha diversity (Shannon diversity and evenness), beta-diversity (Bray-Curtis matrix), and PCoA plots of samples. Additionally, it includes RDA analysis for assessing the environmental impact on community structure.  
